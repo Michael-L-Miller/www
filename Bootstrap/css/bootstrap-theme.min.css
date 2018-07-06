@@ -40,14 +40,14 @@ border-color: #5bc0de;
 }
 
 @font-face {
-    font-family: sinai;
-    src: url(../fonts/sinai.ttf) format(truetype),
-    	url(../fonts/sinai.eot) format("embedded-opentype"),
-    	url(../fonts/sinai.woff) format("woff"),
-    	url(../fonts/sinai#sinai.svg) format("svg");
+    font-family: affiliates;
+    src: url(../fonts/affiliates-1.0.0/affiliates.ttf) format(truetype),
+    	url(../fonts/affiliates-1.0.0/affiliates.eot) format("embedded-opentype"),
+    	url(../fonts/affiliates-1.0.0/affiliates.woff) format("woff"),
+    	url(../fonts/affiliates-1.0.0/affiliates#affiliates.svg) format("svg");
 }
-p.sinaifont { 
-    font-family: sinai;
+p.affiliatesfont { 
+    font-family: affiliates;
 }
 
 @font-face {
