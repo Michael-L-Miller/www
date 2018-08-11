@@ -51,6 +51,17 @@ p.affiliatesfont {
 }
 
 @font-face {
+    font-family: neurotree;
+    src: url(../fonts/neurotree/neurotree.ttf) format(truetype),
+    	url(../fonts/neurotree/neurotree.eot) format("embedded-opentype"),
+    	url(../fonts/neurotree/neurotree.woff) format("woff"),
+    	url(../fonts/neurotree/neurotree#neurotree.svg) format("svg");
+}
+p.neurotree { 
+    font-family: neurotree;
+}
+
+@font-face {
     font-family: fa;
     src: url(../fonts/fontawesome-webfont.ttf) format(truetype),
     	url(../fonts/fontawesome-webfont.eot) format("embedded-opentype"),
