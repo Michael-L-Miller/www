@@ -15,5 +15,6 @@ Copyright Dave Gandy 2016. All rights reserved.
 
 # Changelog
 
+* 11-August-2018 (v4): Affiliation updated and bibliographic entry added. Wiki placeholder removed.
 * 8-August-2018 (v3.2): Affiliation updated and bibliographic entry added. Wiki placeholder removed.
 * 19-March-2018 (v3.1): Footer icons added, frontmatter headshot updated (v2), and placeholder for Wiki added to header.
