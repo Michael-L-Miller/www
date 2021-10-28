@@ -1,0 +1,43 @@
+TY  - JOUR
+AB  - Glioblastoma is a malignant brain tumor with dismal prognosis. Oncogenic mutations in glioblastoma frequently affect receptor tyrosine kinase pathway components that are challenging to quantify because of heterogeneous expression. EGFRvIII, a common oncogenic receptor tyrosine kinase mutant protein in glioblastoma, potentiates tumor malignancy and is an emerging tumor-specific immunotarget, underlining the need for its more accessible and quantitative detection. We used normalized next-generation sequencing data from 117 brain and 371 reference clinical tumor samples to detect focal gene amplifications across the commercial Ion AmpliSeq Cancer Hotspot Panel version 2 and infer EGFRvIII status based on relative coverage dropout of the gene's truncated region within EGFR. In glioblastomas (n = 45), amplification of EGFR [18 (40%)], PDGFRA [3 (7%)], KIT [2 (4%)], MET [1 (2%)], and AKT1 [1 (2%)] was detected. With respect to EGFR and PDGFRA amplification, there was near-complete agreement between next-generation sequencing and in situ hybridization. Consistent with previous reports, this method detected EGFRvIII exclusively in EGFR-amplified glioblastomas [8 (44%)], which was confirmed using long-range PCR. Our study offers a practical method for detecting oncogene amplifications and large intragenic mutations in a clinically implemented hotspot panel that can be quantified using z scores. The validated detection of EGFRvIII using DNA sequencing eliminates problems with transcript degradation, and the provided script facilitates efficient incorporation into a laboratory's bioinformatic pipeline.
+AD  - Fishberg Department of Neuroscience, Friedman Brain Institute, Icahn School of Medicine at Mount Sinai, New York, New York.
+Fishberg Department of Neuroscience, Friedman Brain Institute, Icahn School of Medicine at Mount Sinai, New York, New York; Department of Pathology and Laboratory Medicine, Icahn School of Medicine at Mount Sinai, New York, New York.
+Department of Pathology and Laboratory Medicine, Icahn School of Medicine at Mount Sinai, New York, New York.
+Department of Pathology and Laboratory Medicine, Westchester Medical Center, Valhalla, New York.
+Department of Pathology and Laboratory Medicine, Icahn School of Medicine at Mount Sinai, New York, New York; Department of Pathology and Laboratory Medicine, Westchester Medical Center, Valhalla, New York; Department of Pathology, New York Medical College, Valhalla, New York. Electronic address: fei.ye@wmchealth.org.
+Fishberg Department of Neuroscience, Friedman Brain Institute, Icahn School of Medicine at Mount Sinai, New York, New York; Department of Pathology and Laboratory Medicine, Icahn School of Medicine at Mount Sinai, New York, New York. Electronic address: nadejda.tsankova@mountsinai.org.
+AN  - 31000415
+AU  - Miller, M. L.
+AU  - Tome-Garcia, J.
+AU  - Waluszko, A.
+AU  - Sidorenko, T.
+AU  - Kumar, C.
+AU  - Ye, F.
+AU  - Tsankova, N. M.
+DA  - May
+DO  - 10.1016/j.jmoldx.2019.02.001
+ET  - 2019/04/20
+IS  - 3
+N1  - Miller, Michael L
+Tome-Garcia, Jessica
+Waluszko, Aneta
+Sidorenko, Tatyana
+Kumar, Chitra
+Ye, Fei
+Tsankova, Nadejda M
+eng
+J Mol Diagn. 2019 May;21(3):514-524. doi: 10.1016/j.jmoldx.2019.02.001. Epub 2019 Apr 15.
+PY  - 2019
+SN  - 1943-7811 (Electronic)
+1525-1578 (Linking)
+SP  - 514-524
+ST  - Practical Bioinformatic DNA-Sequencing Pipeline for Detecting Oncogene Amplification and EGFRvIII Mutational Status in Clinical Glioblastoma Samples
+T2  - J Mol Diagn
+TI  - Practical Bioinformatic DNA-Sequencing Pipeline for Detecting Oncogene Amplification and EGFRvIII Mutational Status in Clinical Glioblastoma Samples
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/31000415
+VL  - 21
+ID  - 594
+ER  - 
+
+
+
