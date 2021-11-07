@@ -20,3 +20,4 @@ Copyright Dave Gandy 2016. All rights reserved.
 * 19-March-2018 (v3.1): Footer icons added, frontmatter headshot updated (v2), and placeholder for Wiki added to header.
 * 27-May-2021 (v5.1): Updated headshot and CV to v5.1
 * 10-Aug-2021 (v5.2): Added NBIB which will replace RIS formats for bibliography entries.
+* 2021-Nov-07 (v6): Corrected contact information in footer and updated CV/bibliography.
