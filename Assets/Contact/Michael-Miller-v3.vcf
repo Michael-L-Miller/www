@@ -1,5 +1,5 @@
 BEGIN:VCARD
-VERSION:3.0
+VERSION:6.0
 N:Miller;Michael;Lawrence;Dr.;M.D., Ph.D.
 FN:Michael L. Miller
 UID:c4598ecd-a687-4b7c-98c5-4c9b0d1b9cbb
@@ -14,8 +14,8 @@ TEL;type=WORK;type=PAGER:(917) 899-2043
 TEL;type=WORK;type=FAX:(707) 986-4043
 TEL;type=IPHONE;type=CELL;type=VOICE;type=TEXT:(516) 244-0672
 ADR;type=WORK;type=pref:;;630 West 168th Street\,\nMailbox 23\nNew York\, NY 10032
-URL;type=WORK;type=pref:http://millem14.u.hpc.mssm.edu
-item1.URL:https://twitter.com/DrMikeLMiller
+URL;type=WORK;type=pref:http://michael-l-miller-mdphd.com
+item1.URL:https://twitter.com/MikeMillerMDPhD
 item1.X-ABLabel:twitter
 item2.URL:skype://mmiller0712
 item2.X-ABLabel:skype
@@ -23,6 +23,8 @@ item3.URL:https://scholar.google.com/citations?user=7EVp2IkAAAAJ
 item3.X-ABLabel:GoogleScholar
 item4.URL:https://www.doximity.com/profile/6396828
 item4.X-ABLabel:Doximity
+item5.URL:https://orcid.org/0000-0002-6350-5706
+item5.X-ABLabel:ORCID
 PHOTO;ENCODING=b;TYPE=JPEG:/9j/4AAQSkZJRgABAQAAkACQAAD/4QB0RXhpZgAATU0AKgAA
  AAgABAEaAAUAAAABAAAAPgEbAAUAAAABAAAARgEoAAMAAAABAAIAAIdpAAQAAAABAAAATgAAAA
  AAAACQAAAAAQAAAJAAAAABAAKgAgAEAAAAAQAABOygAwAEAAAAAQAABOwAAAAA/+0AOFBob3Rv
