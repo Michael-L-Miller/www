@@ -1,7 +1,7 @@
 % Document history
 %
 % Curriculum vitae for Michael Lawrence Miller
-% $Id: CV-MLMiller.tex, v4 11-August-2018
+% $Id: CV-MLMiller.tex, v4.1 9-February-2019
 % Based on "Curriculum vitae for Joseph D. Monaco"
 % jdmonaco-cv.tex, downloaded from https://github.com/jdmonaco/cv
 %
@@ -10,7 +10,13 @@
 
 \documentclass[10pt]{article}
 \usepackage{fullpage}
-\usepackage{palatino}
+\usepackage{mathpazo} % math & rm
+\linespread{1.05}        % Palatino needs more leading (space between lines)
+\usepackage[scaled]{helvet} % ss
+\usepackage{courier} % tt
+\usepackage[T1]{fontenc}
+
+
 \usepackage[hidelinks]{hyperref}
 \usepackage{multirow}
 \usepackage{tabu}
@@ -33,7 +39,7 @@
 \addtolength{\headwidth}{1in}
 \fancyfoot[C]{\thepage}
 \fancyfoot[L]{\textit{Miller, ML}}
-\fancyfoot[R]{Updated 11-August-2018, v4}
+\fancyfoot[R]{Updated 9-February-2019, v4.1}
 
 \begin{document}
 
@@ -41,7 +47,7 @@
 \hline\\[0.02in]
 \textsc{\textbf{\Large Michael Lawrence Miller, MD, PhD}}    & \textsc{Phone / Fax}      & \texttt{516-244-0672 / 707-986-4043} \\
 {\small Vagelos College of Physicians and Surgeons}                                & \textsc{E-mail}      & \href{mailto:mlm2326@cumc.columbia.edu}{\texttt{mlm2326@cumc.columbia.edu}} \\
-{\small Columbia University}    & \textsc{Web}        & \href{http://millem14.u.hpc.mssm.edu}{\texttt{millem14.u.hpc.mssm.edu}} \\
+{\small Columbia University}    & \textsc{Web}        & \href{http://michael-l-miller-mdphd.com}{\texttt{michael-l-miller-mdphd.com}} \\
 {\small 630 West 168th Street, Mailbox 23}                & \textsc{Google Scholar}      & \href{https://scholar.google.com/citations?user=7EVp2IkAAAAJ&sortby=pubdate}{\texttt{7EVp2IkAAAAJ}} \\  
 {\small New York, NY, 10032, USA}                      & \textsc{Doximity}   & \href{https://www.doximity.com/profile/6396828}{\texttt{6396828}} \\[0.1in]
 \hline
@@ -53,8 +59,8 @@
 \begin{itemize}
   \item 
   \begin{tabular*}{7.1in}{l@{\extracolsep{\fill}}r}
-    \textbf{NewYork-Presbyterian Hospital} & New York, NY \\
-    Resident Physican & 2018--present \\
+    \textbf{NewYork--Presbyterian Hospital} & New York, NY \\
+    Resident Physician, Pathology & 2018--present \\
     Postdoctoral Residency Fellow at Vagelos College of Physicians and Surgeons  \\
   \end{tabular*}  
   \item 
@@ -122,7 +128,8 @@
 
 \begin{description}
 
-\item~\textbf{Miller~ML}, Chadwick~B, Dickstein~DL, Purushothaman~I, Egervari~G, Rahman~T, Tessereau~C, Hof~PR, Roussos~P, Shen~L, Baxter~MG, \& Hurd~YL. (in press). Adolescent exposure to $\Delta$\textsuperscript{9}-tetrahydrocannabinol alters the transcriptional trajectory and dendritic architecture of prefrontal pyramidal neurons. \textit{Molecular Psychiatry}
+\item \textbf{Miller~ML}, Tome-Garcia~J, Waluszko~A, Sidorenko~T, Kumar~C, Ye~F, \& Tsankova~NM. (accepted). Practical bioinformatic DNA-sequencing pipeline for detecting oncogene amplification and EGFRvIII mutational status in clinical glioblastoma samples. \textit{Journal of Molecular Diagnostics}.
+\item \textbf{Miller~ML}, Chadwick~B, Dickstein~DL, Purushothaman~I, Egervari~G, Rahman~T, Tessereau~C, Hof~PR, Roussos~P, Shen~L, Baxter~MG, \& Hurd~YL. (in press). Adolescent exposure to $\Delta$\textsuperscript{9}-tetrahydrocannabinol alters the transcriptional trajectory and dendritic architecture of prefrontal pyramidal neurons. \textit{Molecular Psychiatry}. \href{https://doi.org/10.1038/s41380-018-0243-x}{doi:~10.1038/s41380-018-0243-x}.
 \item Michaelides M, \textbf{Miller ML}, Egervari G, Primeaux SD, Gomez JL, Ellis RJ, Landry JA, Szutorisz S, Hoffman AF, Lupica CR, Loos RJF, Thanos PK, Bray GA, Neumaier JF, Zachariou V, Wang G-J, Volkow ND, \& Hurd YL. (in press). Striatal Rgs4 regulates feeding and susceptibility to diet-induced obesity. \textit{Molecular Psychiatry}. \href{https://doi.org/10.1038/s41380-018-0120-7}{doi:~10.1038/s41380-018-0120-7}.
 \item \textbf{Miller ML}, Ren Y, Szutorisz H, Warren NA, Tessereau C, Egervari G, Mlodnicka A, Kapoor M, Chaarani B, Morris CV, Schumann G, Garavan H, Goate AM, Bannon MJ, IMAGEN Consortium, Halperin JM, \& Hurd YL. (in press). Ventral striatal regulation of \textit{CREM} mediates impulsive action and drug addiction vulnerability. \textit{Molecular Psychiatry}, \textit{23}, 1328--1335. \href{https://doi.org/10.1038/mp.2017.80}{doi:~10.1038/mp.2017.80}.
 \item Michaelides M, \textbf{Miller ML}, DiNieri JA, Gomez JL, Schwartz E, Egervari G, Wang G-J, Mobbs CV, Volkow ND, \& Hurd YL. (2017). Dopamine D2 receptor signaling in the nucleus accumbens comprises a metabolic-cognitive brain interface regulating metabolic components of glucose reinforcement. \textit{Neuropsychopharmacology}, \textit{42}, 2365--2376. \href{https://doi.org/10.1038/npp.2017.112}{doi:~10.1038/npp.2017.112}.
@@ -218,10 +225,5 @@
   \item Plainview Diner Scholarship (2006), \$500
 
 \end{itemize}
-
-\vspace{0.1in}
-{\large \textbf{Professional Mission}}\\
-\vspace{0.1in}
-My goal is to practice clinical neuropathology and develop an NIH-funded research program to study the molecular mechanisms of neuropsychiatric illness. I am specifically interested in identifying the contribution of discrete neurocircuits to different aspects of behavior, cognition, and disease. Stemming from my doctoral research for instance, I am interested in understanding the distinct roles of two complementary striatal pathways—the striatonigral and striatopallidal pathways—and their contribution to psychosis and affective disorders. Ultimately, I am interested in using single-cell sequencing and neuroanatomical tracing studies for unbiased, high-throughput characterization of neurocircuits. I then want to use post mortem human tissue to investigate the clinical significance of the targets identified from these animal studies. My clinical training in neuropathology will not only maintain my direct involvement in  patient-care, something that I am eager to accomplish, but it will also keep my studies clinically informed and translational.
 
 \end{document}
