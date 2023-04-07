@@ -1,0 +1,70 @@
+
+@font-face {
+    font-family: affiliates;
+    src: url(../fonts/affiliates-1.0.0/affiliates.ttf) format(truetype),
+      url(../fonts/affiliates-1.0.0/affiliates.eot) format("embedded-opentype"),
+      url(../fonts/affiliates-1.0.0/affiliates.woff) format("woff"),
+      url(../fonts/affiliates-1.0.0/affiliates#affiliates.svg) format("svg");
+}
+.affiliatesfont { 
+    font-family: affiliates;
+}
+
+@font-face {
+    font-family: neurotree;
+    src: url(../fonts/neurotree/neurotree.ttf) format(truetype),
+      url(../fonts/neurotree/neurotree.eot) format("embedded-opentype"),
+      url(../fonts/neurotree/neurotree.woff) format("woff"),
+      url(../fonts/neurotree/neurotree#neurotree.svg) format("svg");
+}
+.neurotree { 
+    font-family: neurotree;
+}
+
+@font-face {
+    font-family: fa;
+    src: url(../fonts/fontawesome-webfont.ttf) format(truetype),
+      url(../fonts/fontawesome-webfont.eot) format("embedded-opentype"),
+      url(../fonts/fontawesome-webfont.woff) format("woff"),
+      url(../fonts/fontawesome-webfont#fontawesome-webfont.svg) format("svg");
+}
+.fafont { 
+    font-family: fa;
+}
+
+@font-face {
+    font-family: fa900;
+    src: url(../fonts/fa-solid-900.ttf) format(truetype),
+      url(../fonts/fa-solid-900.eot) format("embedded-opentype"),
+      url(../fonts/fa-solid-900.woff) format("woff"),
+      url(../fonts/fa-solid-900#fa-solid-900.svg) format("svg");
+}
+.fa900font { 
+    font-family: fa900;
+}
+
+@font-face {
+    font-family: academicons;
+    src: url(../fonts/academicons-1.8.2/fonts/academicons.ttf) format(truetype),
+      url(../fonts/academicons-1.8.2/fonts/academicons.eot) format("embedded-opentype"),
+      url(../fonts/academicons-1.8.2/fonts/academicons.woff) format("woff"),
+      url(../fonts/academicons-1.8.2/fonts/academicons#academicons.svg) format("svg");
+}
+a.academicfont { 
+    font-family: academicons;
+}
+
+@font-face {
+    font-family: doximity;
+    src: url(../fonts/doximity/doximity.ttf) format(truetype),
+      url(../fonts/doximity/doximity.eot) format("embedded-opentype"),
+      url(../fonts/doximity/doximity.woff) format("woff"),
+      url(../fonts/doximity/doximity#doximity.svg) format("svg");
+}
+a.doximity { 
+    font-family: doximity;
+}
+
+.icon-black {
+color: #000100;
+}
