@@ -68,3 +68,41 @@ a.doximity {
 .icon-black {
 color: #000100;
 }
+
+.bs-callout {
+    --bs-link-color-rgb:  var(--bs-callout-link);
+    --bs-code-color:  var(--bs-callout-code-color);
+    padding: 1.25rem;
+    margin-top: 1.25rem;
+    margin-bottom: 1.25rem;
+    color: var(--bs-callout-color,  inherit);
+    background-color: var(--bs-callout-bg,  var(--bs-gray-100));
+    border-left: 0.25rem solid var(--bs-callout-border,  var(--bs-gray-300));
+}
+.bs-callout h4 {
+    margin-bottom: .25rem;
+}
+.bs-callout>:last-child {
+    margin-bottom: 0;
+}
+.bs-callout+.bs-callout {
+    margin-top: -.25rem;
+}
+.bs-callout .highlight {
+    background-color: rgba(0, 0, 0, 0.05);
+}
+.bs-callout-info {
+    --bs-callout-color:  var(--bs-info-text-emphasis);
+    --bs-callout-bg:  var(--bs-info-bg-subtle);
+    --bs-callout-border:  var(--bs-info-border-subtle);
+}
+.bs-callout-warning {
+    --bs-callout-color:  var(--bs-warning-text-emphasis);
+    --bs-callout-bg:  var(--bs-warning-bg-subtle);
+    --bs-callout-border:  var(--bs-warning-border-subtle);
+}
+.bs-callout-danger {
+    --bs-callout-color:  var(--bs-danger-text-emphasis);
+    --bs-callout-bg:  var(--bs-danger-bg-subtle);
+    --bs-callout-border:  var(--bs-danger-border-subtle);
+}

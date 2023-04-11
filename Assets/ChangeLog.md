@@ -21,3 +21,4 @@ Copyright Dave Gandy 2016. All rights reserved.
 * 27-May-2021 (v5.1): Updated headshot and CV to v5.1
 * 10-Aug-2021 (v5.2): Added NBIB which will replace RIS formats for bibliography entries.
 * 2021-Nov-07 (v6): Corrected contact information in footer and updated CV/bibliography.
+* 2023-April-9 (v7): NEW BRANCH - Upgraded Bootstrap (5.3.0-alpha2), Bootswatch Lumen theme (5.2.3), added Nord Theme.
