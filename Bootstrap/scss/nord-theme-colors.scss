@@ -1,0 +1,16 @@
+@import "../../../nord/src/nord.scss";
+
+$theme-colors: (
+    "light":      $nord6,
+    "dark":       $nord3,
+    "primary":    $nord0,
+    "secondary":  $nord3,
+    "info":       $nord13,
+    "success":    $nord14,
+    "warning":    $nord11,
+    "danger":     $nord12,
+);
+
+@import "../../../../Downloads/bootswatch/dist/lumen/variables";
+@import "../../../../Downloads/bootstrap/scss/bootstrap.scss";
+@import "../../../../Downloads/bootswatch/dist/lumen/bootswatch";
