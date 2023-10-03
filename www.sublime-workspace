@@ -52,11 +52,12 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/mlm2326/Public/www",
-		"/Users/mlm2326/Public/www/Site"
+		"/Users/mike/Public/www",
+		"/Users/mike/Public/www/Site"
 	],
 	"file_history":
 	[
+		"/Users/mike/Public/www/Site/Bibliography.html",
 		"/Users/mlm2326/Public/www/Site/Bibliography.html",
 		"/Users/mlm2326/Public/www/Site/Welcome.html",
 		"/Users/mlm2326/Public/www/Site/Research.html",
@@ -183,12 +184,11 @@
 		"/Users/mlm2326/Private/digital-myopathology/src/python/__init__.py",
 		"/Users/mlm2326/Private/digital-myopathology/.gitignore",
 		"/Users/mlm2326/Private/digital-myopathology/src/backup/backup.sh",
-		"/Users/mlm2326/Private/digital-myopathology/batch-scripts/track-measure-batch20230117.sh",
-		"/Users/mlm2326/Private/digital-myopathology/src/halo-batch-decon.sh"
+		"/Users/mlm2326/Private/digital-myopathology/batch-scripts/track-measure-batch20230117.sh"
 	],
 	"find":
 	{
-		"height": 38.0
+		"height": 24.0
 	},
 	"find_in_files":
 	{
@@ -274,7 +274,7 @@
 	"project": "www.sublime-project",
 	"replace":
 	{
-		"height": 68.0
+		"height": 44.0
 	},
 	"save_all_on_build": true,
 	"select_file":
