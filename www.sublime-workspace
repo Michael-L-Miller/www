@@ -57,11 +57,12 @@
 	],
 	"file_history":
 	[
+		"/Users/mlm2326/Public/www/Site/Research.html",
+		"/Users/mlm2326/Public/www/Site/Outreach.html",
 		"/Users/mlm2326/Public/www/Site/Welcome.html",
 		"/Users/mlm2326/Public/www/Site/Bibliography.html",
-		"/Users/mlm2326/Public/www/Site/Research.html",
+		"/Users/mlm2326/Public/www/index.html",
 		"/Users/mlm2326/Public/www/.gitignore",
-		"/Users/mlm2326/Public/www/Site/Outreach.html",
 		"/Users/mlm2326/Private/dcpl/gbm/AttentionWeights-HeatmapVisualization-Aug2023/test.py",
 		"/Users/mlm2326/Private/dcpl/gbm/AttentionWeights-HeatmapVisualization-Aug2023/visualization.py",
 		"/Users/mlm2326/Private/dcpl/gbm/gbm.sublime-project",
@@ -183,12 +184,11 @@
 		"/Users/mlm2326/.zshrc",
 		"/Users/mlm2326/Private/digital-myopathology/src/python/__init__.py",
 		"/Users/mlm2326/Private/digital-myopathology/.gitignore",
-		"/Users/mlm2326/Private/digital-myopathology/src/backup/backup.sh",
-		"/Users/mlm2326/Private/digital-myopathology/batch-scripts/track-measure-batch20230117.sh"
+		"/Users/mlm2326/Private/digital-myopathology/src/backup/backup.sh"
 	],
 	"find":
 	{
-		"height": 24.0
+		"height": 51.0
 	},
 	"find_in_files":
 	{
@@ -202,6 +202,26 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			">\n",
+			"class=\"text-primary\"",
+			"class=\"btn btn-info\"",
+			"class=\"text-info\"",
+			"pdf (",
+			"class=\"text-danger\"",
+			"class=\"text-success\"",
+			"class=\"text-warning\"",
+			"<span class=\"badge rounded-pill text-bg-info\"><a",
+			"pill",
+			"warning",
+			"<span class=\"badge rounded-pill text-bg-warning\"><a",
+			"<span class=\"badge rounded-pill text-bg-danger\"><a",
+			"class=\"link-primary link-underline-opacity-0 link-underline-opacity-50-hover\">",
+			"</a></span>",
+			"<span class=\"badge rounded-pill text-bg-success\"><a",
+			"</a></span>",
+			"<span class=\"badge rounded-pill text-bg-success\">",
+			"badge rounded-pill text-bg-info",
+			"link-primary link-underline-opacity-0 link-underline-opacity-50-hover",
 			"label label-warning",
 			"label label-info",
 			"label label-success",
@@ -214,6 +234,21 @@
 		"regex": true,
 		"replace_history":
 		[
+			"class=\"btn btn-primary\" style=\"--bs-btn-padding-y: .1rem; --bs-btn-padding-x: .5rem; --bs-btn-font-size: .7rem;\"",
+			"class=\"btn btn-secondary\"",
+			"class=\"btn btn-info\" style=\"--bs-btn-padding-y: .1rem; --bs-btn-padding-x: .5rem; --bs-btn-font-size: .7rem;\"",
+			"class=\"btn btn-danger\" style=\"--bs-btn-padding-y: .1rem; --bs-btn-padding-x: .5rem; --bs-btn-font-size: .7rem;\"",
+			"class=\"btn btn-success\" style=\"--bs-btn-padding-y: .1rem; --bs-btn-padding-x: .5rem; --bs-btn-font-size: .7rem;\"",
+			"class=\"btn btn-warning\" style=\"--bs-btn-padding-y: .1rem; --bs-btn-padding-x: .5rem; --bs-btn-font-size: .7rem;\"",
+			"class=\"btn btn-info\" style=\"--bs-btn-padding-y: .1rem; --bs-btn-padding-x: .5rem; --bs-btn-font-size: .7rem;\"",
+			"<a type=\"button\"",
+			"class=\"btn btn-info\" style=\"--bs-btn-padding-y: .1rem; --bs-btn-padding-x: .5rem; --bs-btn-font-size: .7rem;\">",
+			"</a>",
+			"<a type=\"button\"",
+			"</a>",
+			"<a type=\"button\"",
+			"button",
+			"btn btn-primary",
 			"badge rounded-pill text-bg-warning",
 			"badge rounded-pill text-bg-info",
 			"badge rounded-pill text-bg-success",
@@ -274,7 +309,7 @@
 	"project": "www.sublime-project",
 	"replace":
 	{
-		"height": 44.0
+		"height": 94.0
 	},
 	"save_all_on_build": true,
 	"select_file":
