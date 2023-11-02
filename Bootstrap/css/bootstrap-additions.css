@@ -1,0 +1,113 @@
+body {
+  background-color: var(--nord0, #ECEFF4);
+  margin: 0;
+  padding: 0;
+}
+
+@font-face {
+    font-family: affiliates;
+    src: url(../fonts/affiliates-1.0.0/affiliates.ttf) format(truetype),
+      url(../fonts/affiliates-1.0.0/affiliates.eot) format("embedded-opentype"),
+      url(../fonts/affiliates-1.0.0/affiliates.woff) format("woff"),
+      url(../fonts/affiliates-1.0.0/affiliates#affiliates.svg) format("svg");
+}
+.affiliatesfont { 
+    font-family: affiliates;
+}
+
+@font-face {
+    font-family: neurotree;
+    src: url(../fonts/neurotree/neurotree.ttf) format(truetype),
+      url(../fonts/neurotree/neurotree.eot) format("embedded-opentype"),
+      url(../fonts/neurotree/neurotree.woff) format("woff"),
+      url(../fonts/neurotree/neurotree#neurotree.svg) format("svg");
+}
+.neurotree { 
+    font-family: neurotree;
+}
+
+@font-face {
+    font-family: fa;
+    src: url(../fonts/fontawesome-webfont.ttf) format(truetype),
+      url(../fonts/fontawesome-webfont.eot) format("embedded-opentype"),
+      url(../fonts/fontawesome-webfont.woff) format("woff"),
+      url(../fonts/fontawesome-webfont#fontawesome-webfont.svg) format("svg");
+}
+.fafont { 
+    font-family: fa;
+}
+
+@font-face {
+    font-family: fa900;
+    src: url(../fonts/fa-solid-900.ttf) format(truetype),
+      url(../fonts/fa-solid-900.eot) format("embedded-opentype"),
+      url(../fonts/fa-solid-900.woff) format("woff"),
+      url(../fonts/fa-solid-900#fa-solid-900.svg) format("svg");
+}
+.fa900font { 
+    font-family: fa900;
+}
+
+@font-face {
+    font-family: academicons;
+    src: url(../fonts/academicons-1.8.2/fonts/academicons.ttf) format(truetype),
+      url(../fonts/academicons-1.8.2/fonts/academicons.eot) format("embedded-opentype"),
+      url(../fonts/academicons-1.8.2/fonts/academicons.woff) format("woff"),
+      url(../fonts/academicons-1.8.2/fonts/academicons#academicons.svg) format("svg");
+}
+a.academicfont { 
+    font-family: academicons;
+}
+
+@font-face {
+    font-family: doximity;
+    src: url(../fonts/doximity/doximity.ttf) format(truetype),
+      url(../fonts/doximity/doximity.eot) format("embedded-opentype"),
+      url(../fonts/doximity/doximity.woff) format("woff"),
+      url(../fonts/doximity/doximity#doximity.svg) format("svg");
+}
+a.doximity { 
+    font-family: doximity;
+}
+
+.icon-black {
+color: #000100;
+}
+
+.bs-callout {
+    --bs-link-color-rgb:  var(--bs-callout-link);
+    --bs-code-color:  var(--bs-callout-code-color);
+    padding: 1.25rem;
+    margin-top: 1.25rem;
+    margin-bottom: 1.25rem;
+    color: var(--bs-callout-color,  inherit);
+    background-color: var(--bs-callout-bg,  var(--bs-gray-100));
+    border-left: 0.25rem solid var(--bs-callout-border,  var(--bs-gray-300));
+}
+.bs-callout h4 {
+    margin-bottom: .25rem;
+}
+.bs-callout>:last-child {
+    margin-bottom: 0;
+}
+.bs-callout+.bs-callout {
+    margin-top: -.25rem;
+}
+.bs-callout .highlight {
+    background-color: rgba(0, 0, 0, 0.05);
+}
+.bs-callout-info {
+    --bs-callout-color:  var(--bs-info-text-emphasis);
+    --bs-callout-bg:  var(--bs-info-bg-subtle);
+    --bs-callout-border:  var(--bs-info-border-subtle);
+}
+.bs-callout-warning {
+    --bs-callout-color:  var(--bs-warning-text-emphasis);
+    --bs-callout-bg:  var(--bs-warning-bg-subtle);
+    --bs-callout-border:  var(--bs-warning-border-subtle);
+}
+.bs-callout-danger {
+    --bs-callout-color:  var(--bs-danger-text-emphasis);
+    --bs-callout-bg:  var(--bs-danger-bg-subtle);
+    --bs-callout-border:  var(--bs-danger-border-subtle);
+}
