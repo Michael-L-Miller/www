@@ -26,27 +26,6 @@ body {
     font-family: neurotree;
 }
 
-@font-face {
-    font-family: fa;
-    src: url(../fonts/fontawesome-webfont.ttf) format(truetype),
-      url(../fonts/fontawesome-webfont.eot) format("embedded-opentype"),
-      url(../fonts/fontawesome-webfont.woff) format("woff"),
-      url(../fonts/fontawesome-webfont#fontawesome-webfont.svg) format("svg");
-}
-.fafont { 
-    font-family: fa;
-}
-
-@font-face {
-    font-family: fa900;
-    src: url(../fonts/fa-solid-900.ttf) format(truetype),
-      url(../fonts/fa-solid-900.eot) format("embedded-opentype"),
-      url(../fonts/fa-solid-900.woff) format("woff"),
-      url(../fonts/fa-solid-900#fa-solid-900.svg) format("svg");
-}
-.fa900font { 
-    font-family: fa900;
-}
 
 @font-face {
     font-family: academicons;
